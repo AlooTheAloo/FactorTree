@@ -1,0 +1,13 @@
+C:\Users\Phili\source\repos\FactorTree\FactorTree\bin\Debug\netcoreapp3.1\FactorTree.exe
+C:\Users\Phili\source\repos\FactorTree\FactorTree\bin\Debug\netcoreapp3.1\FactorTree.deps.json
+C:\Users\Phili\source\repos\FactorTree\FactorTree\bin\Debug\netcoreapp3.1\FactorTree.runtimeconfig.json
+C:\Users\Phili\source\repos\FactorTree\FactorTree\bin\Debug\netcoreapp3.1\FactorTree.runtimeconfig.dev.json
+C:\Users\Phili\source\repos\FactorTree\FactorTree\bin\Debug\netcoreapp3.1\FactorTree.dll
+C:\Users\Phili\source\repos\FactorTree\FactorTree\bin\Debug\netcoreapp3.1\FactorTree.pdb
+C:\Users\Phili\source\repos\FactorTree\FactorTree\obj\Debug\netcoreapp3.1\FactorTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phili\source\repos\FactorTree\FactorTree\obj\Debug\netcoreapp3.1\FactorTree.AssemblyInfoInputs.cache
+C:\Users\Phili\source\repos\FactorTree\FactorTree\obj\Debug\netcoreapp3.1\FactorTree.AssemblyInfo.cs
+C:\Users\Phili\source\repos\FactorTree\FactorTree\obj\Debug\netcoreapp3.1\FactorTree.csproj.CoreCompileInputs.cache
+C:\Users\Phili\source\repos\FactorTree\FactorTree\obj\Debug\netcoreapp3.1\FactorTree.dll
+C:\Users\Phili\source\repos\FactorTree\FactorTree\obj\Debug\netcoreapp3.1\FactorTree.pdb
+C:\Users\Phili\source\repos\FactorTree\FactorTree\obj\Debug\netcoreapp3.1\FactorTree.genruntimeconfig.cache
